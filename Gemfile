@@ -1,6 +1,7 @@
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
-
+ruby '3.2.2'
+gem 'rubygems-update', '>= 3.3.22'
 gem "jekyll-remote-theme"
 gem 'kramdown-parser-gfm'
 
