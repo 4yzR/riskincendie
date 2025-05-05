@@ -1,8 +1,11 @@
 #Color Customization
-#highlight: "#54bfff"
-#white: "#FF0000"
-#black: "#000"
+highlight: "#93181E"
+white: "#FFFFFF"
+black: "#575756"
+red: "#93181E"
+
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+header-image: "../img/images/redrectangle.png"
 contact-image: "../img/map-image.png"
+#contact-image: "../img/team/contact.jpg"

@@ -1,37 +1,45 @@
 ---
 layout: page
-title: Privacy Policy
+title: Mentions légales
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Mentions légales</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+<div class=content>
 
-**PERSONAL INFORMATION WE COLLECT**
+<p>
+Tous les éléments représentés dans ce site appartiennent à RISK INCENDIE.
+</P>
+<p>
+Tous droits de représentation, de reproduction et d'adaptation réservés.
+</p>
+<p>
+© RISK INCENDIE, 2025
+</p>
+<p><strong>Editeur, Conception, Réalisation :</strong></p>
 
-{% if site.analytics.google %}
+<p><strong>RISK INCENDIE</strong> </p>
+<p> 6 rue Lucie Aubrac</p>
+<p>35410 CHATEAUGIRON </p>
 
-Automatically Collected (Google Analytics):
+<p><strong>Tel</strong> : +33 (0)7 63 60 54 69 </p>
+<p> <strong>SIRET</strong> : 938 178 548 00013</p>
+<p><strong>Email</strong> : contact (at) risk-incendie.fr</p>
+</div>
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+**INFORMATIONS PERSONELLES QUE NOUS COLLECTONS**
 
-{% else %}
+Nous ne collectons aucune informations personnelles à l'exception des données envoyées via le formulaire de contact présent sur ce site.
 
-We do not collect any data about you or use any cookies.
+**MODIFICATIONS**
 
-{% endif %}
+Nous sommes suseptibles de mettre à jour cette politique de confidentialité de temps à autre pour des raisons personnelles, opérationnelles, légales ou réglementaires.
 
-**CHANGES**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+**NOUS CONTACTER**
 
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Pour plus d'informations ou pour poser une question, merci de nous contacter par email au <a href="mailto:{{ site.email }}">{{ site.email }}</a>.

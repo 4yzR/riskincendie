@@ -1,18 +1,24 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: PLAN DE SECURITE
+subtitle: Plan d'intervention / d'évacuation
+image: assets/img/images/planevacuation.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: PLAN DE SECURITE
+  subtitle: Plan d'intervention / d'évacuation
+  thumbnail: assets/img/images/planevacuation.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+<strong> RISK Incendie s’occupe de la création et la mise en place de vos plans d’évacuation et d’intervention, en respectant la norme NF X 08-070. </strong>
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- • Réalisation du relevé de plan technique des locaux
+- • Création des plans conformément à la réglementation
+- • Validation des bons à tirer
+- • Impression du plan sur différents supports (PVC sous cadre alu, dibond, plexiglass...)
+- • Mise en place des plans dans les meilleurs délais
+
+
+
 

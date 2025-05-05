@@ -1,18 +1,25 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: EXTINCTEURS
+subtitle: Installation et vérification annuelle
+image: assets/img/images/Extincteur2.jpg
+alt: Keep Exploring
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: EXTINCTEURS
+  subtitle: Installation et vérification annuelle
+  thumbnail: assets/img/images/Extincteur2.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+<strong> RISK Incendie s’occupe de l’installation et la vérification annuelle de vos extincteurs selon le code du travail. </strong>
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- • Visite de vos locaux et étude de vos besoin
+- • Elaboration d’un devis précis conforme à vos besoins et à la réglementation en vigueur
+- • Installation et mise en service de vos extincteurs et signalétiques conformément au devis réalisé
+- • Mise en place d’un contrat de maintenance annuelle
+- • Entretient et suivi annuelle de vos extincteurs. Pas besoin d’y penser, nous prenons rendez-vous afin de planifier l’intervention pour vous chaque année !
+- • Réalisation d’un rapport de vérification
+
+
+
 
