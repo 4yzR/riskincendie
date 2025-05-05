@@ -53,23 +53,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "CLIENT 01"
-        url: https://www.risk-incendie.fr
-        logo: assets/img/clients/envato.jpg
-      - title: "CLIENT 02"
-        url: https://www.risk-incendie.fr
-        logo: assets/img/clients/designmodo.jpg
-      - title: "CLIENT 03"
-        url: https://www.risk-incendie.fr
-        logo: assets/img/clients/themeforest.jpg
-      - title: "CLIENT 04"
-        url: https://www.risk-incendie.fr
-        logo: assets/img/clients/creative-market.jpg
+      - title: ""
+
+  timeline:
+    title: test
 
   team:
     title: "L'EQUIPE RISK INCENDIE"
     text: "Notre équipe d'experts"
-    subtext: Notre équipe répondra à vos questions et vous proposera le matériel adapté à vos besoins.
+    subtext: "<br> Notre équipe répondra à vos questions et vous proposera le matériel adapté à vos besoins.
+      <br> Nous contacter par téléphone: 07 63 60 54 69 
+      <br> Nous contacter par email: contact@risk-incendie.fr
+      <br> Vous pouvez également utiliser le formulaire de contact ci-dessous."
     section: team
     people:
       - name: "Kilian RIBOT"
@@ -91,7 +86,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Nous contacter"
-    text: " <br> Nous contacter par téléphone: 07 63 60 54 69 </br> Nous contacter par email: contact@risk-incendie.fr "
+    text: ""
     section: contact
     name: "Nom*"
     name-validation: "Please enter your name."
@@ -103,6 +98,7 @@ en: &DEFAULT_EN
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Envoyer message"
+
 
   footer:
     legal: "Mentions légales"
